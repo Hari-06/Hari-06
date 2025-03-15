@@ -39,7 +39,6 @@
         <img src ="https://github-contributor-stats.vercel.app/api?username=Hari-06&limit=5&hide_border=true&theme=shadow_green&combine_all_yearly_contributions=true" />
     </p>      
   </div>  
-
   <!-- Right div -->
   <div>
     <p style="display: inline-block; margin-bottom: 65px;">
