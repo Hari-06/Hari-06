@@ -51,9 +51,6 @@
 <hr>
 
 ## 🚀 Tech Stacks:
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <!-- Left Column -->
-
   <div style="flex: 1; padding-right: 10px;">    
      <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="selenium logo"  />
       <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="30" alt="apachemaven logo"  />
