@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hariharan Murugan</h1>
 <h3 align="center">Automation Test Engineer</h3>
 
-
 <hr>
 <h4 align="left">
 <ul>
@@ -25,10 +24,6 @@
 <br>🧠 Banking QA: Deep understanding of regulatory requirements and quality standards in the banking sector
 
 </h4><hr>
-
-
-
-### 
 
 <div align="center">
   <p style="display: inline-block;" align="center">
@@ -117,9 +112,6 @@
   </div>
 </div>
 <hr>
-
-
-
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hari-06&bg_color=f2f2f2&color=000000&line=008f1d&point=009e61&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
